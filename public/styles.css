@@ -1,0 +1,40 @@
+:root {
+    --smoky-black: #111110ff;
+    --eerie-black: #1D2025ff;
+    --jet: #2E2E2Eff;
+    --quick-silver: #A3A3A3ff;
+    --light-steel-blue: #B8C4D1ff;
+    --black-coral: #455A6Dff;
+    --black-coral: #455A6Dff;
+    --charcoal: #2E445Bff;
+    --prussian-blue: #152D49ff;
+    --keppel: #0CB7A7ff;
+    --granny-smith-apple: #ACED97ff;
+    --indigo: #51008FFF;
+    --calc-width: 428px;
+    --calc-height: 874px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 16px | 100% = 16px */
+}
+
+header {
+    font-size: 2rem;
+}
+
+body {
+    background-color: var(--black-coral);
+}

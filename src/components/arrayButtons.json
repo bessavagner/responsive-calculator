@@ -1,0 +1,132 @@
+[
+    [
+        {
+            "value": "C",
+            "text": "AC",
+            "id": "clear-button",
+            "key": "clear"
+        },
+        {
+            "value": "(",
+            "text": "(",
+            "id": "(-button",
+            "key": "("
+        },
+        {
+            "value": ")",
+            "text": ")",
+            "id": ")-button",
+            "key": ")"
+        },
+        {
+            "value": "^",
+            "text": "^",
+            "id": "power-button",
+            "key": "power"
+        }
+    ],
+    [
+        {
+            "value": "7",
+            "text": "7",
+            "id": "seven-button",
+            "key": "seven"
+        },
+        {
+            "value": "8",
+            "text": "8",
+            "id": "eight-button",
+            "key": "eight"
+        },
+        {
+            "value": "9",
+            "text": "9",
+            "id": "nine-button",
+            "key": "nine"
+        },
+        {
+            "value": "/",
+            "text": "÷",
+            "id": "divide-button",
+            "key": "divide"
+        }
+    ],
+    [
+        {
+            "value": "4",
+            "text": "4",
+            "id": "four-button",
+            "key": "four"
+        },
+        {
+            "value": "5",
+            "text": "5",
+            "id": "five-button",
+            "key": "five"
+        },
+        {
+            "value": "6",
+            "text": "6",
+            "id": "six-button",
+            "key": "six"
+        },
+        {
+            "value": "*",
+            "text": "×",
+            "id": "times-button",
+            "key": "times"
+        }
+    ],
+    [
+        {
+            "value": "1",
+            "text": "1",
+            "id": "one-button",
+            "key": "one"
+        },
+        {
+            "value": "2",
+            "text": "2",
+            "id": "two-button",
+            "key": "two"
+        },
+        {
+            "value": "3",
+            "text": "3",
+            "id": "three-button",
+            "key": "three"
+        },
+        {
+            "value": "-",
+            "text": "-",
+            "id": "minus-button",
+            "key": "minus"
+        }
+    ],
+    [
+        {
+            "value": "0",
+            "text": "0",
+            "id": "zero-button",
+            "key": "zero"
+        },
+        {
+            "value": ".",
+            "text": ".",
+            "id": "decimal-button",
+            "key": "decimal"
+        },
+        {
+            "value": "D",
+            "text": "del",
+            "id": "delete-button",
+            "key": "delete"
+        },
+        {
+            "value": "+",
+            "text": "+",
+            "id": "plus-button",
+            "key": "plus"
+        }
+    ]
+]
